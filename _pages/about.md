@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 My name is Jintong Li (李金彤). I am a second-year Ph.D. student in the <a href="https://www.cs.rutgers.edu">Department of Computer Science</a> at Rutgers University–New Brunswick, where I am advised by <a href="https://jingjinyu.com/">Prof. Jingjin Yu</a> in the <a href="https://arc-l.github.io">Algorithmic Robotics and Control Lab (ARC-L)</a>.
 
-Before joining Rutgers, I received my bachelor's degree from the <a href="https://en.scgy.ustc.edu.cn/">School of the Gifted Young</a> at the University of Science and Technology of China (USTC). In the summers of 2024 and 2025, I was a research intern in <a href="https://ai4ce.github.io/">Prof. Chen Feng's group</a> at New York University, where I worked on learning urban navigation from web-scale videos.
+Before joining Rutgers, I received my bachelor's degree from the <a href="https://en.scgy.ustc.edu.cn/">School of the Gifted Young</a> at the University of Science and Technology of China (USTC). From July 2024 to March 2025, I was a research intern in <a href="https://ai4ce.github.io/">Prof. Chen Feng's group</a> at New York University, where I worked on learning urban navigation from web-scale videos.
 
 My research lies at the intersection of computer vision and robotics, with a current focus on multi-agent planning.
 
