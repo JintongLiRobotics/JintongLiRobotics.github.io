@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jintonglirobotics.github.io/sitemap.xml
